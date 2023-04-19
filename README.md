@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring IT student student from Temasek Polytechnic</h3>
 <img align="right" alt="Coding" width="100" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **contact.swanhtetaung@gmail.com**
 
