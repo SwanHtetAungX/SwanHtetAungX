@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swan Htet Aung</h1>
-<h3 align="center">An aspiring IT student student from Temasek Polytechnic</h3>
+<h3 align="center">An aspiring IT student  from Temasek Polytechnic</h3>
 <img align="right" alt="Coding" width="100" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
 - 🌱 I’m currently learning **Flutter**
